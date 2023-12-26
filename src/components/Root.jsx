@@ -9,7 +9,7 @@ const Root = () => {
         <Col span={6}>
           <MenuBar />
         </Col>
-        <Col span={18}>
+        <Col span={14}>
           <Outlet />
         </Col>
       </Row>
